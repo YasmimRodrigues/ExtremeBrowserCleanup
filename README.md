@@ -39,7 +39,7 @@ Use **with extreme caution!**
 
 ---
 
-### ▶️ Execution
+## ▶️ Execution
 
 1. **Download** the file `ExtremeBrowserCleanup.ps1`  
 2. **Open PowerShell as Administrator** (recommended to ensure full permissions)  
